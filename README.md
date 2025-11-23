@@ -40,10 +40,10 @@
 
 ## **💡2. 팀원 소개**
 
-| [<img src="https://github.com/kcw9609.png" width="150px">](https://github.com/kcw9609) | [<img src="https://github.com/BestTomaTo.png" width="150px">](https://github.com/BestTomaTo) | [<img src="https://github.com/huggywuggy1289.png" width="150px">](https://github.com/huggywuggy1289) | [<img src="https://github.com/.png" width="150px">](https://github.com/) | [<img src="https://github.com/1.png" width="150px">](https://github.com/) |
-|:---:|:---:|:---:|:---:|:---:|
-| [강채원](https://github.com/kcw9609)   | [BestTomaTo](https://github.com/BestTomaTo) | [huggywuggy1289](https://github.com/huggywuggy1289) | [](https://github.com/) |
-| • 팀장 <br> • 프론트엔드 | • 부팀장, 백엔드 총괄 <br> • 백엔드, 모델  | • 서기 <br> • CI/CD 구축, 백엔드, 모델 |• 비교과 총괄 <br> • 작업/보고서 관리 <br> • 백엔드, 모델| • llm & 데이터분석 파트장 <br> • 하드웨어, 모델 |
+| [<img src="https://github.com/.png" width="150px">](https://github.com/) | [<img src="https://github.com/kcw9609.png" width="150px">](https://github.com/kcw9609) | [<img src="https://github.com/BestTomaTo.png" width="150px">](https://github.com/BestTomaTo) | [<img src="https://github.com/huggywuggy1289.png" width="150px">](https://github.com/huggywuggy1289) | [<img src="https://github.com/.png" width="150px">](https://github.com/) | [<img src="https://github.com/1.png" width="150px">](https://github.com/) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [PM](https://github.com/PM) | [강채원](https://github.com/kcw9609) | [BestTomaTo](https://github.com/BestTomaTo) | [huggywuggy1289](https://github.com/huggywuggy1289) | [](https://github.com/) | [](https://github.com/) |
+| • PM | • 백엔드  |  • CI/CD 구축, 백엔드 | • 백엔드 | • 프론트  | • 프론트  |
 
 ---
 ## **💡3. UI/UX **
